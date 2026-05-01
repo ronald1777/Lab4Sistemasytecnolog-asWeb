@@ -1,5 +1,5 @@
 # README — Parte 1: Depuración del Servidor Roto
-**Autor:** Ronald Catún  
+**Estudiante:** Ronald Catún  
 **Curso:** Sistemas y Tecnologías Web — UVG, Semestre 1, 2026
 
 Este documento explica cada error encontrado en `servidor-malo.js`, cómo se corrigió y por qué. El archivo corregido final es `servidor-corregido.js`. Además de la segunda parte del laboratorio numero 4
