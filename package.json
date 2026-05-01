@@ -1,0 +1,17 @@
+{
+  "name": "api-canciones",
+  "version": "1.0.0",
+  "description": "API REST de canciones - Laboratorio 4 - Ronald Catún",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ronald Catún",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "uid": "^2.0.2"
+  }
+}
